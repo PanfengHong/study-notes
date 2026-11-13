@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-11-13T09:43:55.752Z",
+  "total": 1,
+  "stats": {
+    "easy": 1,
+    "medium": 0,
+    "hard": 0
+  },
+  "categories": [
+    {
+      "name": "basics",
+      "problems": [
+        {
+          "id": "1",
+          "title": "学习路线总览",
+          "difficulty": "easy",
+          "tags": [
+            "学习路线"
+          ],
+          "date": "2026-11-13",
+          "juejin": "",
+          "file": "basics/001-roadmap.md"
+        }
+      ]
+    }
+  ]
+}
